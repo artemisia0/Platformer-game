@@ -26,6 +26,7 @@ I have two short videos that illustrates how approximately this game looks like:
 * Good lighting system (ambient occlusion with respect to day time, torches)
 * Efficient rendering but O(n*n) collision testing
 * New blocks, weapons, characters can be added easily
+* 4200 LOC
 
 ## License
 See LICENSE file.
