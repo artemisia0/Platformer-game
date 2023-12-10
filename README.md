@@ -1,4 +1,4 @@
-#PixelDream
+# PixelDream
 
 ## Description
 This is a 2D terraria-like platformer game written in C++ 17 and SFML. It is completely free and open-source.
